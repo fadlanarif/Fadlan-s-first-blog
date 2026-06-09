@@ -9,6 +9,9 @@ Welcome to my personal GitHub portfolio project! This repository contains a full
 You can view the live website here: 
 👉 [https://fadlanarif.github.io/Fadlan-s-first-blog/](https://fadlanarif.github.io/Fadlan-s-first-blog/)
 
+### 📸 Website Preview
+![Blog Preview](Screenshot%202026-06-09%20190412.png)
+
 ---
 
 ## 📌 Project Overview & Purpose
